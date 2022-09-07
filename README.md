@@ -1,4 +1,4 @@
-0. push, pall [] >> Implement the 'push' and 'pall' opcodes
+0. push, pall >> Implement the 'push' and 'pall' opcodes
 1. pint >> Implement 'pint' opcode
 2. pop >> Implement the 'pop' opcode
 3. swap >> Implement the 'swap' opcode
